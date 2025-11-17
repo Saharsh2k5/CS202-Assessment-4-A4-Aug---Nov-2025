@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saharsh\\OneDrive\\Desktop\\CS202-Assessment-4-A4-Aug---Nov-2025\\LAB11\\EventPlayground\\EventPlayground.csproj",
-      "projectName": "EventPlayground",
-      "projectPath": "C:\\Users\\Saharsh\\OneDrive\\Desktop\\CS202-Assessment-4-A4-Aug---Nov-2025\\LAB11\\EventPlayground\\EventPlayground.csproj",
+      "projectUniqueName": "C:\\Users\\Saharsh\\OneDrive\\Desktop\\STT_LABS\\LAB12\\OrderPipeline\\OrderPipeline.csproj",
+      "projectName": "OrderPipeline",
+      "projectPath": "C:\\Users\\Saharsh\\OneDrive\\Desktop\\STT_LABS\\LAB12\\OrderPipeline\\OrderPipeline.csproj",
       "packagesPath": "C:\\Users\\Saharsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saharsh\\OneDrive\\Desktop\\CS202-Assessment-4-A4-Aug---Nov-2025\\LAB11\\EventPlayground\\obj\\",
+      "outputPath": "C:\\Users\\Saharsh\\OneDrive\\Desktop\\STT_LABS\\LAB12\\OrderPipeline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

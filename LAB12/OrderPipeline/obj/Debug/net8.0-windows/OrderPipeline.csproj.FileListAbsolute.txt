@@ -1,0 +1,16 @@
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\bin\Debug\net8.0-windows\OrderPipeline.exe
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\bin\Debug\net8.0-windows\OrderPipeline.deps.json
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\bin\Debug\net8.0-windows\OrderPipeline.runtimeconfig.json
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\bin\Debug\net8.0-windows\OrderPipeline.dll
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\bin\Debug\net8.0-windows\OrderPipeline.pdb
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.OrderEventArgs.resources
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.csproj.GenerateResource.cache
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.AssemblyInfoInputs.cache
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.AssemblyInfo.cs
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.dll
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\refint\OrderPipeline.dll
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.pdb
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\OrderPipeline.genruntimeconfig.cache
+C:\Users\Saharsh\OneDrive\Desktop\STT_LABS\LAB12\OrderPipeline\obj\Debug\net8.0-windows\ref\OrderPipeline.dll
